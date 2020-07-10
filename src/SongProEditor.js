@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {SongPro} from 'songpro'
+import SongPro from 'songpro'
 import './SongProEditor.css';
 
 class SongProEditor extends Component {
