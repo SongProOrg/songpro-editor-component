@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.19",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "songpro": "0.0.5"
   }
 }
